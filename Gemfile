@@ -67,3 +67,4 @@ group :test do
   gem "selenium-webdriver"
   gem "webdrivers"
 end
+gem 'faker', '~> 2.18', '>= 2.18.0'
